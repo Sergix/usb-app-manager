@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usb-app-manager", "usb-app-manager\usb-app-manager.csproj", "{3BEB5D3A-873B-421C-B34B-D3C9DCBAD57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BEB5D3A-873B-421C-B34B-D3C9DCBAD57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEB5D3A-873B-421C-B34B-D3C9DCBAD57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEB5D3A-873B-421C-B34B-D3C9DCBAD57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEB5D3A-873B-421C-B34B-D3C9DCBAD57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {364DE6F7-CADC-422A-932F-A605ECE03083}
+	EndGlobalSection
+EndGlobal
